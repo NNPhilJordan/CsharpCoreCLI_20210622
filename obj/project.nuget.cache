@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "pKVgViWt/dDd/Gcxys396BXlBXALdwos6bu9a/3UsM8Gmg2OEijhmTI1UZck4C+ZHMD5VHzCQL666knyIjZ02Q==",
+  "success": true,
+  "projectFilePath": "C:\\Code Academy\\nelnet-projects\\CsharpCoreCLI_20210622\\CsharpCoreCLI_20210622.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pjordan\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
